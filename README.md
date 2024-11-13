@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures in Computer Science
 - 📫 How to reach me: eliasandrew2003@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am in the top ten of speedrunners in most stages of Penny's Big Breakaway
+- ⚡ Fun fact: I am in the top ten of speedrunners in Penny's Big Breakaway
 
 <!---
 elias-grayson/elias-grayson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
